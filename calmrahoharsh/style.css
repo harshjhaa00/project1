@@ -1,0 +1,363 @@
+*{
+    margin: 0;
+}
+img{
+    width: 100%;
+    height: 450px;
+    filter: brightness(90%);
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+.Sleep{
+    position: absolute;
+    top: 28px;
+    left: 80px;  
+    color: white;
+    font-size: 20px;
+    font-weight:700;
+}  
+.Stress{
+    position: absolute;
+    top: 28px;
+    left: 200px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Mind{
+    position: absolute;
+    top: 28px;
+    left: 410px;  
+    color: white;
+    font-size: 20px;
+    font-weight:700;
+}
+.business{
+    position: absolute;
+    top: 28px;
+    left: 850px;  
+    color: white;
+    font-size: 20px;
+    font-weight:700;
+}
+.health{
+    position: absolute;
+    top: 28px;
+    left: 1040px;  
+    color: white;
+    font-size: 20px;
+    font-weight:700;
+}
+.log{
+    position: absolute;
+    top: 28px;
+    left: 1210px;  
+    color: white;
+    font-size: 20px;
+    font-weight:700;
+}
+.button0{
+    position: relative;
+    bottom: 440px;
+    left: 1300px;  
+    color: rgb(10, 3, 3);
+    font-size: 10px;
+    font-weight:200;
+    border: 5px solid white;
+    border-radius: 70px;
+}
+.heading{
+         text-align: center;
+         padding: 10px;
+         font-size: 18px;
+         font-weight: 550;
+}
+.main{
+    text-align: center;
+    color: rgb(26,62,111);
+    padding-top: 35px;
+    font-size:50px;
+    font-weight: 570;
+}
+.one{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 14px;
+    font-weight: 1;
+}
+.two{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 4px;
+    font-weight: 1;
+}
+.h1{
+text-align: center;
+color: white;
+border-radius: 10px;
+padding-right: 40px;
+padding-left: 40px;
+}
+.button{
+    padding: 10px;
+    background-color:rgb(98,99,223);
+    border-radius: 250px;
+    position: relative;
+    top: 25px;
+    left: 600px;
+    
+}    
+.help{text-align: center;
+    color: rgb(33, 6, 101);
+    padding-top: 140px;
+    font-size:41px;
+    font-weight: 70px;
+}
+.less{
+    color: rgb(33, 6, 101);
+    position: relative;
+    top: 80px;
+    left: 200px;
+    font-size: 34px;
+    font-weight: 100px;
+}
+.more{
+    color: rgb(33, 6, 101);
+    position: relative;
+    top: 80px;
+    left: 450px;
+    font-size:34px;
+    font-weight: 100px;
+}
+.fully{
+    color: rgb(33, 6, 101);
+    position: relative;
+    top: 80px;
+    left: 700px;
+    font-size:34px;
+font-weight: 100;
+}
+.a{
+    font-size: 20px;
+    position: relative;
+    top: 110px;
+    right: 340px;
+}
+.b{
+    font-size: 20px;
+    position: relative;
+    top: 110px;
+    right: 250px;
+}
+.c{
+    font-size: 20px;
+    position: relative;
+    top: 110px;
+    right: 170px;
+}
+.x{
+    font-size: 20px;
+    position: relative;
+    top: 105px;
+    left: 194px;
+}
+.y{
+    font-size: 20px;
+    position: relative;
+    top: 105px;
+    left: 297px;
+}
+.z{
+    font-size: 20px;
+    position: relative;
+    top: 105px;
+    left: 625px;
+}
+.image{
+    position: relative;
+    top: 200px;
+}
+.trust{
+    position: relative;
+    top: 240px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 750;
+    color: rgb(26,62,111);
+}
+.ny{
+    max-height: 40px;
+    position: relative;
+    top: 275px;
+    left: 170px;
+    max-width: 200px;
+}
+.wsj{max-height: 32px;
+    position: relative;
+    top: 270px;
+    left: 250px;
+    max-width: 80px;
+}
+.fortune{
+    max-height: 35px;
+    position: relative;
+    top: 270px;
+    left: 340px;
+    max-width: 170px;
+}
+.today{
+    max-height: 40px;
+    position: relative;
+    top: 271px;
+    left: 450px;
+    max-width: 200px;
+}
+.cnn{
+    max-height: 28px;
+    position: relative;
+    top: 267px;
+    left: 500px;
+    max-width: 140px;
+}
+.million{
+    position: relative;
+    top: 350px;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(26,62,111);
+    font-weight: 700;
+}
+.trial{
+    font-size: 47px;
+    position: relative;
+    top: 500px;
+    left: 400px;
+    font-weight: 700;
+    color: rgb(33,6,101);
+}
+.cone{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 570px;
+    right: 232px;
+    border: 5px solid rgb(98,99,223);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 170px;
+    padding-right: 170px;
+    background-color: rgb(98,99,223);
+    border-radius: 20px;
+}
+.button2{
+    border-radius: 20px;
+    padding-left: 1px;
+}
+.wave{
+    position: relative;
+    top: 600px;
+    height: 250px;
+}
+.check{
+position: relative;
+top: 650px;
+text-align: center;
+font-size: 40px;
+font-weight: 700;
+}
+.resource{
+    position: relative;
+top: 650px;
+text-align: center;
+font-size: 40px;
+font-weight: 700;
+}
+.inner{
+    position: relative;
+    top: 700px;
+    width: 400px;
+    height: 200px ;
+}
+.critic{
+    position: relative;
+top: 700px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+font-weight: 550;
+}
+.adhd{
+    position: relative;
+    top: 470px;
+    left: 650px;
+    width: 400px;
+    height: 200px ;
+}
+.thc{
+    position: relative;
+top: 495px;
+right: -250px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+font-weight: 550;
+}
+.rarrow{
+    position: relative;
+    top: 370px;
+    left: 350px;
+    font-size: 35px;
+    font-weight: 900;
+    border: 2px solid grey;
+    border-radius: 100%;
+    background-color: rgb(193,195,198);
+    color: black;
+}
+.larrow{
+    position: relative;
+    top: 370px;
+    left: 370px;
+    font-size: 35px;
+    font-weight: 900;
+    border: 2px solid grey;
+    border-radius: 100%;
+    background-color: rgb(145,146,149);
+    color: black;
+}
+.blogs{
+    position: relative;
+    top: 570px;
+    left: -230px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.f{
+position: relative;
+top: 800px;
+right: 500px;
+font-size: 40px;
+font-weight: 470;
+color: rgb(8, 45, 96);
+}
+.general{
+    position: relative;
+    top: 880px;
+    left: 200px;
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(8, 45, 96);
+}
+.line1{
+    position: relative;
+    top: 910px;
+}
+.word1{
+    position: relative;
+    top: 950px;
+    left: 200px;
+    font-size: 20px;
+    font-weight: 700;
+
+}
